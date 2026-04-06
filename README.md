@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>TUYỂN TẬP THƠ XUÂN DIỆU</title>
+ </head>
+        <h1>TUYỂN TẬP THƠ XUÂN DIỆU</h1>
+</body>
+    <ol>
+        <li><a href="cx">Cảm xúc</a></li>
+        <li><a href="vv">Vội vàng</a></li>
+    </ol>
+    <br>
+    <h2 id="cx">CẢM XÚC</h2id></h2> 
+    <P>
+        <i>Làm thi sĩ, nghĩa là ru với gió <br>
+            Mơ theo trăng, và vơ vẩn cùng mây <br>
+            Để linh hồn ràng buộc bưởi muôn dây <br>
+            Hay chia sẻ bởi trăng tình yêu mến <br>
+    </p>
+    <p>
+            Đây là quán tha hồ muôn khách đến <br>
+            Đây là bình thu hợp trí muôn hương <br>
+            Đây là vườn chim nhả hạt mười phương <br>
+            Hoa mật ngọt chen giao cùng tái độc</i>
+            ...
+    </P>
+    <hr style ="background-color: black;width:100%;margin-left: auto;margin-right: auto;height:2px;">
+    <br>
+    <h2 id="vv">VỘI VÀNG</h2id></h2>
+    <p>
+        <i>Tôi muốn tắt nắng đi <br>
+            Cho màu đừng nhạt mất; <br>
+            Tôi muốn buộc gió lại <br>
+            Cho hương đừng bay đi. <br>
+            ...
+        </i>
+    </p>
+</body>
+</html>
+
